@@ -1,0 +1,3 @@
+EXPORTS
+	MouseProc			@1
+	KeyboardProc		@2
